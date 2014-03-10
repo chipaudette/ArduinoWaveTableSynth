@@ -13,6 +13,9 @@
      Output to KB Amp: Top-Left 1/8th inch 4 conductor jack
          Yellow (3rd Chan) is audio out
  
+ Wave Select:
+    Select the waveform either from the ribbon or from the rotary encoder. 
+ 
  */
 
 // include the library code:
